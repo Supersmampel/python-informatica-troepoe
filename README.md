@@ -1,2 +1,2 @@
 # python-informatica-troepoe
-gewoon iets doms
+Dit is gewoon iets doms voor informatica. Niks bijzonders (^///^)
