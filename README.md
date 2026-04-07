@@ -1,2 +1,2 @@
-# python-informatica-troepoe
+# python informatica opdracht
 Dit is gewoon iets doms voor informatica. Niks bijzonders (^///^)
